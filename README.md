@@ -58,7 +58,7 @@
   
 - 📡 Node.js and npm installed globally.
 
-## What is React JS?
+##  🔧  What is React JS?
 
 - ⚛️ React is used to build user interfaces (UI) on the front end.
   
@@ -66,10 +66,14 @@
   
 - ⚛️ React is an open-source project created by Facebook.
 
-## What is Spring Boot?
+##  🔧 What is Spring Boot?
 
 - 🌐 Spring Boot is used to develop REST web services and microservices.
   
 - 🌐 Spring Boot has taken the Spring framework to the next level, drastically reducing the configuration and setup time required for spring projects.
   
 - 🌐 You can set up a project with almost zero configuration and start building the things that actually matter to your application.
+
+## ✍️ Author
+
+-  [Shubham Jadhav](https://github.com/shubhamj-26)
